@@ -14,7 +14,7 @@ var sites = [
 ];
 
 //the name of the ring
-var ringName = 'The Goog ring';
+var ringName = 'The GOOG';
 
 /* the unique ID of the widget. two things to note:
  1) make sure there are no spaces in it - use dashes or underscores if you must
