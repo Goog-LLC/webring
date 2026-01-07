@@ -8,9 +8,7 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://goog.ifeellikeharukananase.tech',
-'https://areallyawesomeusername.me',
-'https://example.com/',
-'https://example.com/'
+'https://areallyawesomeusername.me'
 ];
 
 //the name of the ring
