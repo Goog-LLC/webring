@@ -9,4 +9,14 @@ Your website must contain the GOOG, or soggy cat. It can be displayed in a sente
 When your sure you contain the GOOG on your website, fill out this [form](https://goog.fillout.com/t/wGJJbmDy4Eus).
 After, make a PR, adding your site to `onionring-variables.js` in the `var sites` section
 
+Put these scripts in your website!
+```js
+<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-variables.js"></script>
+```
+```js
+<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
+```
+```css
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
+```
 PRs will be reviewed less than an hour. (or you can brag Alexander (areallyawesomeusername) on HC slack)
