@@ -17,6 +17,6 @@ Put these scripts in your website!
 <script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
 ```
 ```css
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
 ```
 PRs will be reviewed less than an hour. (or you can brag Alexander (areallyawesomeusername) on HC slack)
