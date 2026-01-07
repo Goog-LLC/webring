@@ -7,7 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://example.com/',
+'https://goog-db1.pages.dev',
 'https://example.com/',
 'https://example.com/',
 'https://example.com/'
